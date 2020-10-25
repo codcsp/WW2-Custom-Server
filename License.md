@@ -1,11 +1,11 @@
-Copyright Call Of Duty Custom Server Project. All Rights Reserved.
-Copyright Jacob Holland, Jess Cockren and Greorge Holginer. All Rights Reserved.
+#### Copyright Call Of Duty Custom Server Project. All Rights Reserved.<br>
+#### Copyright Jacob Holland, Jess Cockren and Greorge Holginer. All Rights Reserved.
 
-Call of Duty is a trademark of Activison Blizzard, Inc. 
-CODCSP, does not make any attempt of copyright/trademark inferngment on Activison Blizzard, Inc.
-CODCSP, does not make any attempt for throwert the Call of Duty Terms of Service.
+#### Call of Duty is a trademark of Activison Blizzard, Inc.<br>
+#### CODCSP, does not make any attempt of copyright/trademark inferngment on Activison Blizzard, Inc.<br>
+#### CODCSP, does not make any attempt for throwert the Call of Duty Terms of Service.<br>
 
-This is considered 'Source Avaliable' in by no means can you build from source of this project.
+#### This is considered 'Source Avaliable' in by no means can you build from source of this project.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
