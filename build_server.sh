@@ -1,0 +1,1 @@
+g++ -o server.exe server/main.cpp > log_server.txt
